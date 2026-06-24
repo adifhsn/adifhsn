@@ -19,7 +19,6 @@
 <div align="center">
 
 Hi, I'm Adif — a CS student at the University of Houston with a heavy interest in Software Engineering.
-
 I'm drawn to building things that make people's lives a little easier — solving real problems and creating something that people actually notice and use. Programming is most satisfying when you know you've made an impact.
 
 When I'm not writing code, I enjoy watching shows, listening to music, and playing video games.
@@ -34,7 +33,7 @@ When I'm not writing code, I enjoy watching shows, listening to music, and playi
 
 <a href="https://github.com/adifhsn"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/adif-hossain"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/adif-hossain"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff" /></a>
 &nbsp;
 <a href="mailto:adifxhossain@gmail.com"><img src="https://img.shields.io/badge/adifxhossain@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
